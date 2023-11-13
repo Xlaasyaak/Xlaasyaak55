@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Reese",
+  "age": 38,
+  "address": {
+    "street": "Funaw Square",
+    "city": "Atubagar",
+    "state": "MN",
+    "zip": "51463"
+  },
+  "contact": {
+    "phone": "(541) 775-2342",
+    "servicePhone": "800287434"
+  },
+  "birthday": "1986-04-12T15:19:48.645Z",
+  "ip": "3.131.91.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Na ogerak naseci sow je zuludzaw na koc vusajju aredefkiv jansi ze kugfag cutzena mura wil korowcim. Ruvo jeze kiczeg wislopim sogdir pap lava sis bic hig sacusi efnad ilice buhgiumo podunmaf naonnu robarhel. Daron nutu su mohus avugaz vu oh vonotgu ro muob babaniw beajosi herzetan wo telbamlit.",
+    "bio": "Ravi vagan pajva be bet cot is zapatisa vokduvge cacire go cadbivuv. To ohriwsef otoafugu pujos da fidebi velihsu amimdut midu bafko jajhopsi gi vid. Josage mupuv becehde kihuubi tuuwioz hicfarul tuk jebaw ibohafvob ge ategegus fuczi wazovajev."
+  },
+  "apiKey": "7079e5b75045475edb83930ef9cf5084bfcfc84cdf9f6170d76eeb315b413102",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
