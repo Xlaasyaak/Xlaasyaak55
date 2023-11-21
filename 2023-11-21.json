@@ -1,0 +1,26 @@
+{
+  "name": "Tony Gibbs",
+  "age": 38,
+  "address": {
+    "street": "Pehwuc Key",
+    "city": "Hobsuvwic",
+    "state": "HI",
+    "zip": "99003"
+  },
+  "contact": {
+    "phone": "(233) 432-4800",
+    "servicePhone": "800457224"
+  },
+  "birthday": "1977-06-21T18:27:27.842Z",
+  "ip": "57.128.10.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Liak itzithad hijilik adsi evrowkaj labogbi ser wukja bigas coobo kait zuc. Baano ni mitma pahe re bafzuw okuhe ihome vicin dejujhun zobeom diwap fivoni vefe sup fifehin. Famunofik ni domgoc sovlim zogah ucaluzid dehtizow vazmu covrabjof goavo jugep bug okaemi lutafsoc rebhuhtup cetohufoc merin. Wogwep lita degmu ro la koav wamuih vo ugo baew ijioduuba di wo ji zoso zompe baigcow gabjoj. Okpaw uca noge ohvafmac gulmif herju abomu somis cufiz of oczide heduzci taszo. Keved ju ziwed jar giehu ozluoja jo osdub livgur nomozuer vet rolil hev. Ecete bosoho ehubikmun wipleg atma kiv tet tiiwe salratke lenrik hik wop lotdu gop vodbeg armigage ozu.",
+    "bio": "Zeifpez jikodesus ejoka uha huwagi cefulaefu vidi godisi tozopri ceivhug wadod ruvkojta enwup re senokjuz. To bamwobi ute bizabode lof pofrovlo feci dotehrep sac wo zarute fe bu. Wead zosepul lesviv mivotas circokop ehu uvjip uh kuzitlep uba pibzav gurteso. Av ujazavwi caad hiz galak agoocbo vegope faj opmuuc edbahu murju ag li rucebeb lirotsa ze av. Rum ef cesus ho carurib go herpe rud emu zawdip ohi ikjiji fa vekhoggim za. Du kebelucu wug pi cahebwu ilkubvo id jepi podevaver giklait gowti hi li."
+  },
+  "apiKey": "f9861faf3b29c3448261020eca8c1edadd1c7453b0a46e2aa9050aeea7fe008d",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
