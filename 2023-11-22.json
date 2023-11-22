@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Santos",
+  "age": 34,
+  "address": {
+    "street": "Rozizi Lane",
+    "city": "Kotdoapa",
+    "state": "VA",
+    "zip": "46043"
+  },
+  "contact": {
+    "phone": "(723) 306-2970",
+    "servicePhone": "800943284"
+  },
+  "birthday": "1990-09-29T15:26:51.797Z",
+  "ip": "60.228.113.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Lezid kauz hulzabzaf en nelalela dop hokizcu zeroz pirunpip banu je levaz oseun abemi ule. Kak er ca safdod egazug cic enoavabiz sav pa seh hafci hihwe uzhis cewzutgo cep id zaz uvudibi. Pedvuv aj si fefej zan rusu evu buhmotvih volahzif lokibe nenfor sah wuzazo tuw hofopof.",
+    "bio": "Geok ebzaete wowijawo gubu sofoco iz fednuctak mipahpo ohovuppel eg sowwiec kimpo. Kasrisa sulatgon koz cilkadhud hakikli nifat falod fiz komawo se picudwun ih badiwvi ratuj keigehu nu fatmeccur feziwi. Loz per gawbe kisaoc heg lehel ho abi bosorav puh vapvobza al."
+  },
+  "apiKey": "22e9d12324b6eb7c11ce4e84199d381d4a1f5aafbc357783f6a3741d3569fe35",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
