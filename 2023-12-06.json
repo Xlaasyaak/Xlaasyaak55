@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Alvarado",
+  "age": 50,
+  "address": {
+    "street": "Kobno Loop",
+    "city": "Uspoune",
+    "state": "NJ",
+    "zip": "32632"
+  },
+  "contact": {
+    "phone": "(456) 297-5406",
+    "servicePhone": "800781698"
+  },
+  "birthday": "1989-08-14T03:06:18.753Z",
+  "ip": "77.38.212.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Cucgu ki lemebgig no noj pe nu cuuwcug cor tevurgo lobuiwe kawhuj. Aplowke iralo fusruzit agino funuz za su jitazgo ve weleran bavco sun ket naufhu. Ramun hu ezawuuma iwi seidno jeirmuw uge habec kaj widfoza mieke olodo esobonfo. Hu ti asowel zah podurmir bidsohah mozsoawa bor muc nodanon hol zemod harros zobe ji zatip lu vumco. Eza vewenab ni ditguwu enacaju gam wen uriffas leccu difednuf pomiwor pigawduc eki zepuvel.",
+    "bio": "Puse wewka sile porop turje po ehe pi rezvimna zunur viaw lav. Vi il dobejam baro surdurwi zeznuez fuhkog som ohlumsip mih zofdiri vijro uzoju sij nuf ere. Seduege gih nub dec pa su logih sejuvu iz ruodeusi te uvuke uj capwo tavufa lil meh. Akuboklin tive wibil nol ol hebmejda fiv caalude su wuvan ahvapam dudosimi sof. Viwramcif jogowiw bihmo tosas nadsutfev sapwezbi jodhi ihbufiv gid vis komazacon umra fon baig ji."
+  },
+  "apiKey": "79c2a3631efaa186a87dc3bea162e9a93c70d23c352a1f83bbb1793948833fd0",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
