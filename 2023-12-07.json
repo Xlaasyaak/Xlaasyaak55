@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Harmon",
+  "age": 35,
+  "address": {
+    "street": "Uzaigi Extension",
+    "city": "Vipecne",
+    "state": "DC",
+    "zip": "15278"
+  },
+  "contact": {
+    "phone": "(643) 561-4613",
+    "servicePhone": "800599541"
+  },
+  "birthday": "1962-09-22T20:13:13.863Z",
+  "ip": "80.208.96.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Das dip onseefu kuv se rimoho moreic as gan eh om wo wuga gufji ularum tesoh bejahi. Ro isle horulba osicu tadon fomoh pahgerla hibsic ceut hopo hif ku umenihjos gupuj ce. Le bu bikrib werada cowwep teve gurero ebiluj guzviun li boz retvimlib me uv ocvijjif.",
+    "bio": "Idirezem vuiz oncu wa ve dufujiz wiz lad bov seh vi azenaade jofi bijul ive posfor nifo de. Kauhwaj wethonu riribo ikeat esecope af ozoroku edwovzu heno abcid jo rera wowbuh gefpuwep but awi. Ze pivfikga dupige githa waho hembofa neeze cipwi voco ezja gulneghor tuildil mek pobhosi jat apoocawa."
+  },
+  "apiKey": "844f0efd50b14378fdcfe098be22003542542b933031ec3d60bf8cd6a3f5bf74",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
