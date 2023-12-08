@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Barber",
+  "age": 41,
+  "address": {
+    "street": "Tokur Street",
+    "city": "Ribsuzber",
+    "state": "SD",
+    "zip": "54090"
+  },
+  "contact": {
+    "phone": "(963) 599-5555",
+    "servicePhone": "800113512"
+  },
+  "birthday": "1962-02-18T11:39:31.205Z",
+  "ip": "77.91.53.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Jidderdur uceemo ale revdafli ciz egkokmo jef iheumvu agi dik pedkokfa sud. Muv jidita jo jobe azawa pupma goj af vel mofruv ba ifwiwli. Osifehe gahuvgu ocgo teih tub nupsubap kekcagkew jacbo puvolfi kobsem soj wab lilnuhpe usciwju suroewa wu wiweje.",
+    "bio": "Itezhu taliepu elu ibicuced fa zaij feb nes cawbo wejoj cih josuc mececbil siv. Uspa hipzow muvsa kowo utriala wihge hozi miaro uli bawapu ifazud ehvef dacmeh. Nopuwuwol nabo odial buw dejted han eciwooj upsaw uno fad uhuka heacemev. Noatgel bakusbup adwaddi roc rimen foweehi suaba opewavte caskuvol pejadaz ze hilhuce ekivap cet diwofibe vovfig."
+  },
+  "apiKey": "19f8464ef92ec331b085496bc0bfc06e51d699d6b7d8a3fa0e4075e1e3e60511",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
