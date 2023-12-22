@@ -1,0 +1,26 @@
+{
+  "name": "Martin King",
+  "age": 65,
+  "address": {
+    "street": "Egani Key",
+    "city": "Moznore",
+    "state": "PA",
+    "zip": "84970"
+  },
+  "contact": {
+    "phone": "(251) 730-4576",
+    "servicePhone": "800833298"
+  },
+  "birthday": "1997-03-31T03:01:55.220Z",
+  "ip": "191.241.44.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Sozhi ze befulo jibgudgi zob retdaz davpetafe ospaj goze birembit incusga za. Tucibzu jiloneb cale awijewkus zuugsuf varpiv mi jeheoj nor lasijdi rifevu riraghac me bi. Cir ejahok refano iswo ute hufes alo tanhuf udi faerecod odatedoc bibos ag. Wo osiwukrol rug dotum cebawek nelbavi ihji mevhug if ojgewiw jewwu oguk. Veguleb touj pofate cu momorgig pupdiciw vim nul wulcilo wawohor vogeppar jepzo fonzir sobli heifeje gahdo kozew duj.",
+    "bio": "Apuigibez zokko vehwiub muwna ge jijufe co potalab hojkipu fut heulohav falir ke rezomde pavvob ifgi. Tod wecekpok af tivtamket if je bopog pujgirad mec ucemif rec uho zem paobu nicriva fil mun. Avawazbiw mav kum fo owu renomga iruli egdosus ifa kuwovutu fov dumkor asi eciatauv mokpi kibit kesce bimtu. Limat winem zopmumawe rujtiv ebugimpoz bamop pu jeizja of liahicag ihtu akefaz avzemac malmo op. Nargig arajof iraesu oripamel jal cuhidlop ma li vowmotbam jejwu bakul bo muwnuobe opwi wonwar. Mogefif vo ti meduhi loanmu er soipi fekpordi retieh gogkojzi gosek ka ikahi jiku. Fin tejceeto useno mavbateh nutiwhug zi ucpab ez tetdoip namvul dachu pivpin waor hepilo vevdepuwe avaema."
+  },
+  "apiKey": "e4e4269386174ffd0d7640c766169f853a48fe0da7568d7e8d859638aa2ec232",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
