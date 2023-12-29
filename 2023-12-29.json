@@ -1,0 +1,26 @@
+{
+  "name": "Billy Sparks",
+  "age": 52,
+  "address": {
+    "street": "Gojara Mill",
+    "city": "Nivucuha",
+    "state": "NV",
+    "zip": "10176"
+  },
+  "contact": {
+    "phone": "(613) 874-9350",
+    "servicePhone": "800843837"
+  },
+  "birthday": "1996-07-18T17:51:58.139Z",
+  "ip": "216.113.133.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Turnig gujobsav senbokbic dujo ri ocaedde bes ri parkufep mil muakazum wicna. Vivuw re vadbib mejte reg ufa be lumbe ce bu vor moljid. Reb vewobo wen in dirnowut mav zobtod diwvi fegkuc miben retep tapog daive zuple eb.",
+    "bio": "Icpajje ecataig vocan nibbe zeraz kus nom zed kobjavtih ed zumeso waip zaf we. Fohsu epu epel otubotaj livkas hivap kohe bu muvub juspuf wuptefbo femwonila. Og hor ejone pi taw pub lurelesi ovaalepek uwobu rarte gi fuadu dut jab lobgu lofished lewfikim jejo. Ijaibdej jeplef zu jit dep jis biv nog anudo guwliwe lucuko ma. Mev suv binel za pihup tipes suhno hotas zid ikwe opi rohehze tum zi jur. Zuhfe itahis dafteosu dup borili wouru kozut vo ahe benug vujsenso tegah sabtip ihagjo ituizsi tuenuek pariwoj."
+  },
+  "apiKey": "a60378ee3d999d9d3ca7b0209aea9b589c0918457640466ac13e2d5e6b974cea",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
