@@ -1,0 +1,26 @@
+{
+  "name": "Sue Allen",
+  "age": 45,
+  "address": {
+    "street": "Wagrab Glen",
+    "city": "Pimowupe",
+    "state": "SD",
+    "zip": "97529"
+  },
+  "contact": {
+    "phone": "(755) 569-3345",
+    "servicePhone": "800728648"
+  },
+  "birthday": "1967-05-15T09:35:55.350Z",
+  "ip": "60.248.63.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Pice muod da vop fosiraona sowik wojle zo cezi le uswoguf vevez wu egonu fiik ok ik. Jelot boz desdej hinozi rahu edacaen imi mobubi vupetpaw dozhopgi nirbobtuz cakoz os sewib sav bew vubcoasa sikwi. Zikga povetir suruh temfuf corfuju dero luusu vegreuve udataako cezkafwu telutlu ehi vawekwom kukopar uskoswub wevecpo pa.",
+    "bio": "Rewej ribkeetu rufsed gos kocvadcit hafifpu sahiv es ob lepez gowat va. Nimjil ona eho du ewdat fentuk bu sardujute jozal hoj zokavak gemhuhfim ace valgozo raupe po. Zimcof ok vu waj fepume suhal fak cazafem hewgo mieni vu ge."
+  },
+  "apiKey": "86fd66672a43f139024454f6e73390e2528da895e9aa6292fdcb9305ce409ef9",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
