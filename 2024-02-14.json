@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Horton",
+  "age": 20,
+  "address": {
+    "street": "Ufaru Path",
+    "city": "Gadehbe",
+    "state": "FL",
+    "zip": "93859"
+  },
+  "contact": {
+    "phone": "(860) 272-7052",
+    "servicePhone": "800453456"
+  },
+  "birthday": "2003-08-28T04:33:38.738Z",
+  "ip": "101.237.56.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Somukdod de woed su fuvahtem keccosu wehha ihugor soz deeza uhevibe wizedgaj dezca. Majop ved zenaoj pirro lih gijace tihko hiwe ka lawuv ot fasjetila dunja imniv wi heklih fuska bahhal. Bubcetre hubwu tozu wehmuotu pihbusif gelkel giso ijiod ijwozu bejicku fuvopelu owegat awi horcabawa jiw. Hu hedo zihoof ovak vuferaw asgur uzula ez dufgow wukavat tem jik foplocu pe. Vuetuoz anaurojib parot tuz wofuve na fevuc wuzo icpapbo tah kaf isno ag pot tiz. Wifav hihumpe reazci iwlog wes tennu taetoihi dozeka cijupav gu nonka zunopug eho pi ki veeca vomogab zumdeboza. Ehiwido ahowifu jegpofaf wim potuur ciz zes ga zob tecohme low poeknu tiv vav woh vavkucit fo.",
+    "bio": "Sa kerak inagi felnuc zere otecel ofot nocah siwic opufub mi law pu ba viacsig. Lerud rikkuwem feh elgega wek ewdusle ben uma wize rivupa kecu ejewiniz cogava ekikku ne sa coshu afgu. Abuvodga an fojifpus voja ebwokor vel po zehuge fenmo burhun kilwo casnoppic mulko saw az ihmef bifpozez disjag. Ti da pefapti dis ahewa sakow ofhon tam ehcuz lopib vifo zev odigo lohgotu lumvowa ulizadeh. Larivpe ik vi ok vikgos bapdimfe dazocawos raz mu ujo alirosot fovdebzu upaze ba edegerik mabwojoj."
+  },
+  "apiKey": "135063f825ca6ed916178fd6999c3b052fa7cca42ec5f76cc23ea41dd40930f4",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
