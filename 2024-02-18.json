@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Abbott",
+  "age": 23,
+  "address": {
+    "street": "Ahuno Court",
+    "city": "Iricales",
+    "state": "WI",
+    "zip": "46785"
+  },
+  "contact": {
+    "phone": "(401) 764-2468",
+    "servicePhone": "800383155"
+  },
+  "birthday": "1991-04-30T10:32:54.921Z",
+  "ip": "50.231.114.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Wup anowivjag kirwoco zetu dom it emoku epicgi ba cekigmu hijtuh fib vur. Kaozijo evfonjow epu pe wujcerih lugkik timad juc ek fucfig le vibab kucija. Vav evtog budunawa uko okniv bahda povimo zukowosi bocihokul dabe ziciemi zipakaci topormu rekeco ojovin tawi.",
+    "bio": "Etukurow akapot ubo ju kifav nuca mofzi cafkenkaf rid daav dugon hagusivuj jahe ar saerve duode fem rore. Vum jejwoges pek ulu ubuc fidiwwok zuhouco viso geci saucni vi nikomve tefsih sap ruz. Vuw cu bekjif vav voz tin usnakgu zusi wacvaslaj bunhi zuc vola mi ugelih rezbu rohegwo few vutopapo. Okged ewi doloja zone leb efal nuso mamufa uz cu woved hivun ti juvemnef cumuut ipaveig re tognu. Ojad vesice badas ejca lecvo ine nucadsa kalnog ma fuhikopop wogbooja uftikkik dotpuzdon. Eszu duh tosihmug se hego ujoehraz lozufo cojrud dorej nage mi azbu sejikluv tun nulap."
+  },
+  "apiKey": "ce9623b9f356f6e1b247d6d5124514c54dbb90ab579e164431b69dd93c5b4a98",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
