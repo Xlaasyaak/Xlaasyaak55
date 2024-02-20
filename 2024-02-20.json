@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Cortez",
+  "age": 25,
+  "address": {
+    "street": "Pewu Place",
+    "city": "Kiviril",
+    "state": "IL",
+    "zip": "09846"
+  },
+  "contact": {
+    "phone": "(838) 774-5656",
+    "servicePhone": "800869367"
+  },
+  "birthday": "1988-02-03T18:20:56.989Z",
+  "ip": "133.21.7.21",
+  "foo": "bar",
+  "profile": {
+    "about": "We begeda vafawiv obu cewovi hapovta sigvog giwu bivsa zus hor fase. Tu iltos ja et um zok wum asujil kesit uv olze rusi watzucuti mufhe du. Abninwa po nekzihto hiazuv nususa igebohfo voga je povte vo kofupod mokuk icaha sud ab bundifodi cialo. Veiwu ti bus gigum ha tubgiskuj jobak odihu amcep nadcukbir ticuj nasa sibudcit lag ku.",
+    "bio": "Ta gavitofe tocoite ihsoni zaw miw zanaj go ip evbar fi nereb foizasu puza. Fo towma wiju tumu ecnuwu hok mukin vetzukol vop vilzeedu lontajiv pulo wihpeh fu hifme sahsohov. Salitero jaed ese in neb gesiw kipipdeh jajuzu simju atoho emidos cukbes du ki. Sa zubupwa novuge ap hufbul raj tu tim tih ikowas og gec pom vokni do lejefa."
+  },
+  "apiKey": "50b4b53533bb64a6829f96fb6692bb832fb6e8da477a56fd297b9aed75d2071d",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
