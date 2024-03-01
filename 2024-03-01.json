@@ -1,0 +1,26 @@
+{
+  "name": "Troy Berry",
+  "age": 23,
+  "address": {
+    "street": "Tilar Grove",
+    "city": "Ivijobe",
+    "state": "AR",
+    "zip": "06747"
+  },
+  "contact": {
+    "phone": "(654) 205-4765",
+    "servicePhone": "800442613"
+  },
+  "birthday": "1974-07-02T15:33:02.608Z",
+  "ip": "175.111.49.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Musosje pedikal anzenge nug kugalluf ehondaf kaz pav taurnij uw jiigaled ju voug caalo uzne. Memempuj co jempes raorra tah deos lirre rebfe defajo acobi ces tuizili midsasape kedobiep. Ogopofe cigih adzew varmi mekotkik hug wero jovdemoke ritihiupu pal furti fatmemud kipzal. Lum zal ji be lihu bin bu tuzsaf wuzli odto wuwu bibmuf igose vo ziwe. Cejohra liwbi bi bamehuud gaw hoor razisvo oni ufa awacorva kaje kakdiul vopfuv bo.",
+    "bio": "Lujmit deogoto vuhmiswic tusug wadhawa nidah vidupvu zopvunmiw fi gug sizvom besom iblezeb uhuruw. Dotowu cukgef camo wodbo gen ikoeru feswir jab jibzot sizfihtuc pem dejaw tefdewta ric se vebmufug weza nuj. Ulati arola isbe tevrajo giramageg wuw ubhena wolsisbe vutajgab mib veh riggokgi tifdun noklate docori re. Fic non hu tohuw gi ithoczo oge pusu wofulce zijinu cetogbu gaor pe ni. Ojoav umu bolu fefdo odi diekibek sopigo wofe lub bul ajulezug oblo rujga per hiwgirlug dufve tijtu nen."
+  },
+  "apiKey": "bb4d589a8d7ef4427e222c324b07331e7d470c817bc6f1dd97f3a5698d5d3149",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
