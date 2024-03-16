@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Hale",
+  "age": 39,
+  "address": {
+    "street": "Muhoki Pass",
+    "city": "Kavasmu",
+    "state": "WA",
+    "zip": "11624"
+  },
+  "contact": {
+    "phone": "(771) 917-8624",
+    "servicePhone": "800188864"
+  },
+  "birthday": "2001-05-30T12:34:05.916Z",
+  "ip": "112.224.19.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Denop bovaz cosbas kiri tuj juzes li fuwahve evnodi di ran huzev ulale. Cewerju hukjed daliroli urep nizukian caroke fesor joh riburdil kap ibehevse ticada. Goraf wufbepew kuzekko mozje kogur otgez iwfiwmun ritwemav mit tauvo tepaemi uke jur kiasi gigotro. Az osiepi bi ciz va azi mu muniwje oneuhunol vozge kama lapol pumsebim tioja jedogzup zozono ewgitig. Ke ginme ogu saho ec vafo usukidub gimar botaj udnujub dogobaute ta tina vi je le bosgal.",
+    "bio": "Tehijpip guctibab depbutofo vov zunilpi mec bougi rob cez nameve hiser cutlec zovrafiz subkenmi ber vieh wuatap. Bephiif sobipju itviggoc wawumap ta te himeh ulibaf wegiz hijiwle zedo igabana buffawed mah zugor. Uci pu rihdirwu hi zigpe woli bef jow vuzizaj utugutpa aca utvehim vedenep inoefkac mon zutdem."
+  },
+  "apiKey": "e8d186fd1a0ab4afe424e367c43e7a5a0d43ed1fa840998bb382f694612c1d05",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
