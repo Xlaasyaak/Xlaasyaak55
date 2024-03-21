@@ -1,0 +1,26 @@
+{
+  "name": "Jon Pearson",
+  "age": 43,
+  "address": {
+    "street": "Coaz Road",
+    "city": "Sihhoipo",
+    "state": "AZ",
+    "zip": "41836"
+  },
+  "contact": {
+    "phone": "(878) 508-7131",
+    "servicePhone": "800362669"
+  },
+  "birthday": "1999-02-09T19:46:18.214Z",
+  "ip": "32.53.14.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Lobosar zuti ufiek arosut sev doh na hub abemama besmi uhelbo palfauju bon buijozo sudas sazal upu ezeelu. Me assib or gohi borpepev lon bag wiztoc aspevpic fa warba nu. Tupi sume joh vod erde nomojjad ujeriip fuup pumadce zahisez suhceese ubgodek goprulo maweer hiksanfis gavti hool zi. Wa juc jitero bolasmaw viirinus guhe zuev nekrulzu jiz kuzal ejuiz hikti sigekkof. Refjukal mu ge li odemofbav wekborcup ba noada har zes ogma jezaap ceob ro gotkem. Loofna ice razvisiv fopofbuv to cowlek ok najni jophuwace owehug kegwogol hawpo wina.",
+    "bio": "Sif mesi misip rum pewit zug ziapu iki wofuj lo ivam jiz to cunemow vih egutuk. Ijo ozaiwcif po ze car bokemcu leci dutec neftup defsik nobada sin ubugulem egi ic urlunes. Junfez weev zab vuju ud ihi vo wihzobe tokula rujlem duba matusvag."
+  },
+  "apiKey": "0cbebe8b3e3cce62d3f590a5838d0242a56161e7189358ad063ad88ef59ebc27",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
