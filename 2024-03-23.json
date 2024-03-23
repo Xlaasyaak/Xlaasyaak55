@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Barrett",
+  "age": 58,
+  "address": {
+    "street": "Pukoku Ridge",
+    "city": "Nikisfi",
+    "state": "HI",
+    "zip": "95969"
+  },
+  "contact": {
+    "phone": "(424) 433-9510",
+    "servicePhone": "800671731"
+  },
+  "birthday": "1980-10-17T13:31:24.372Z",
+  "ip": "95.112.46.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Tihsu fihek zitdecom irhadhu bafes denzovme gogsitzo awi tot opu ni oc tac lok minwow tafu. Uh kocku vo gugibago ijohiato oh zeka hev nibmiate uka ase am fedtup ak metim. Wapawi ufanup eci pom uzuniego womkodo hotam nobej gigzuevi ni fajfi zotci mezedem zifoda diudu ifusejeg.",
+    "bio": "Zoabinun cinnu ju wenu lec jiad wit hezzo re zobodzo vimfanbeg nok at wonawzi. Vedweztuh fudat zozlikbab oz sawkihfe cezduw do eciijo zoto afajece wos zo foebauz. Mozli ekeh kamu no bigim gi faid toflaz suli womak wegu su durpeddi kuca gikoti kazebcij peb rosop. Jid suv upim dizni we ra jezim juezdu zoiv omfonum orite to takto ahuvul zivueji umi hi."
+  },
+  "apiKey": "377f9ba90270f82a72731fc20d04d47208392c55918097066e5c85bf48270455",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
