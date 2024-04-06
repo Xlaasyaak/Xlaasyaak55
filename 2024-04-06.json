@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Gibson",
+  "age": 52,
+  "address": {
+    "street": "Emohur Glen",
+    "city": "Mejvelsu",
+    "state": "ID",
+    "zip": "99478"
+  },
+  "contact": {
+    "phone": "(289) 236-4546",
+    "servicePhone": "800423684"
+  },
+  "birthday": "1990-01-08T21:25:29.329Z",
+  "ip": "201.188.42.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Pokoke gutecko lurso ivsel idaves cup iro wu lu ovejuwade adozojup uj kewmeva his ecezuh agopargan otijuvo. Huhij jiolu jurabrin leub ke kotfalil ta vilfo ikvuwhuw haacusem acugijij za wav wurgi wawo. Fumfa finvaom do howopib awve fuvo keszuzas zefga po uhme nokresca kesa ejsorur mu.",
+    "bio": "Hinod ufinen lopsil led li tomo ha ute uragev ijka pelbop nolun ticgi hawo duf le fohug ne. Ac rimki ojapal oli nuc eswa ca ti jadce toz donju totri udahun. Pa ahe cige zeilo maghumzud iliwip ipivib ziv tuwaceca pizja avewohip igemak arnassag jo. Ege jem udifafcah kivhu peg gab ojugione jokvurpu pim joj pira ahpoeti."
+  },
+  "apiKey": "cd83210f85382dbbce53b895285939baf637a615b0a19005577ef20bc8a7290a",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
