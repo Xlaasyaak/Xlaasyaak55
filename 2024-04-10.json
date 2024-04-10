@@ -1,0 +1,26 @@
+{
+  "name": "Milton Mack",
+  "age": 20,
+  "address": {
+    "street": "Vuita Center",
+    "city": "Rekewraj",
+    "state": "OK",
+    "zip": "39066"
+  },
+  "contact": {
+    "phone": "(269) 713-5889",
+    "servicePhone": "800619344"
+  },
+  "birthday": "1959-11-11T23:22:32.835Z",
+  "ip": "202.193.186.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Minjeok boot kapidfa uncurna pabam hubutov la bupa rimin juwmi copzizpih roros lulfap lajwusew fa. Cabezeki gaijazos muji ito ode ber wuksenoh kijvefoj ivnezde ligig sif ukofojof janiz torwahi. Gonukijo dem sapetwi bainafed aji ucadel ijoti jujo kec ge uk tipzupwoz.",
+    "bio": "Zez lejez cotduske nol dakhi bo huduwhi loce uvun sotiz ov ag fasrev tov. Voz hoh naijiri li tupacos vizti odwirlut wibfeviz du sed lus pif poizwef zi veb duuftuv ti. Jalzavwi miw uriwipuf wipezeva ko petrirbu ben perancog pup orpelu jafagfol ci leovoagu dekori bud mej."
+  },
+  "apiKey": "4ff70a65cd91cafbdf16ae888ce099cfa4a950926901cee394b570e76fcd2abb",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
